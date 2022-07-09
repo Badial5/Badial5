@@ -30,8 +30,16 @@ Here are some ideas to get you started:
 
 
 
+
+# About Me
+
+
+
+
 <!-- Adding private contributions count to total commits count this one does not show icon and theme -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badial5&count_private=true) -->
+
+### My Github Stats 
 
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badial5&show_icons=true&theme=radical)
 
@@ -41,6 +49,7 @@ Here are some ideas to get you started:
 
 
 <!-- This is my most used language -->
+### My Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badial5)](https://github.com/Badial5/github-readme-stats)
 
-# About Me
+
