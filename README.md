@@ -1,4 +1,4 @@
-                                                                           # Calvin Williams👋
+# Calvin Williams👋
 
 
 <!--
@@ -18,3 +18,29 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
+
+
+### Welcome to my Github Page
+
+
+<!-- This is the card Stats -->
+<!-- This state does not count private respository thats why I commented it -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badial5)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
+
+<!-- Adding private contributions count to total commits count this one does not show icon and theme -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badial5&count_private=true) -->
+
+![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badial5&show_icons=true&theme=radical)
+
+
+<!--This Pin my repositories -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Badial5&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<!-- This is my most used language -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badial5)](https://github.com/Badial5/github-readme-stats)
+
+# About Me
