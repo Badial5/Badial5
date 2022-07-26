@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 
 ### Activity for this week
-[![Calvin's wakatime stats for this week](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/badial5/github-readme-stats)
+[![Calvin's wakatime stats for this week](https://github-readme-stats.vercel.app/api/wakatime?username=Merlin266)](https://github.com/badial5/github-readme-stats)
