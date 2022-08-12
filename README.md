@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <!-- Adding private contributions count to total commits count this one does not show icon and theme -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badial5&count_private=true) -->
+<!-- ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badial5&count_private=true) -->
 
 ### My Github Stats 
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 <!--This Pin my repositories -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Badial5&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Badial5&repo=github-readme-stats&show_owner=true)](https://github.com/badial5/github-readme-stats) -->
 
 
 <!-- This is my most used language -->
