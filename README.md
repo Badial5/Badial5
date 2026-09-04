@@ -6,14 +6,14 @@
   </a>
 
   <p align="center">
-    <a href="mailto:calvinwilliamsbusiness@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Remote+Engineering+Opportunity">
       <img src="https://img.shields.io/badge/Status-Available_for_Remote_Roles-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Remote Status" />
     </a>
     <a href="https://calvin-williams.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-calvin--williams.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:calvinwilliamsbusiness@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Direct_Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://wa.me/233557279987?text=Hi%20Calvin,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect">
+      <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
@@ -93,7 +93,7 @@
         <li>Hardware-backed encrypted docket vault running 100% offline-first.</li>
       </ul>
       <p>
-        <a href="mailto:calvinwilliamsbusiness@gmail.com?subject=Live%20Demo%20Request%20-%20Legal%20Diary%20Mobile%20App">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Live+Demo+Request+-+Legal+Diary+Mobile+App&body=Hi+Calvin,+I+would+like+to+request+a+live+demo/walkthrough+of+the+Legal+Diary+Mobile+App.">
           <img src="https://img.shields.io/badge/📱_Request_Live_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Live Demo" />
         </a>
       </p>
@@ -110,11 +110,11 @@
         <li>Mobile-first responsive architecture scoring 98/100 on Lighthouse.</li>
       </ul>
       <p>
-        <!-- <a href="https://microfinance-lac.vercel.app/">
+        <a href="https://microfinance-lac.vercel.app/">
           <img src="https://img.shields.io/badge/🔗_Live_App-22C55E?style=for-the-badge&logoColor=white" alt="Live App" />
-        </a> -->
-        <a href="mailto:calvinwilliamsbusiness@gmail.com?subject=Live%20Demo%20Request%20-%20Microfinance%20Platform">
-          <img src="https://img.shields.io/badge/📱_Request_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Live Demo" />
+        </a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Live+Demo+Request+-+Microfinance+Platform&body=Hi+Calvin,+I+would+like+to+request+a+live+demo+of+the+Microfinance+Platform.">
+          <img src="https://img.shields.io/badge/📱_Request_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Demo" />
         </a>
       </p>
       <p>
@@ -132,7 +132,7 @@
         <li>Dynamic currency to words conversion, PDF export, and full offline PWA capability.</li>
       </ul>
       <p>
-        <a href="mailto:calvinwilliamsbusiness@gmail.com?subject=Live%20Demo%20Request%20-%20NovaTrade%20POS%20Studio">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Live+Demo+Request+-+NovaTrade+POS+Studio&body=Hi+Calvin,+I+would+like+to+request+a+live+demo+of+the+NovaTrade+POS+Studio.">
           <img src="https://img.shields.io/badge/📱_Request_Live_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Live Demo" />
         </a>
       </p>
@@ -149,7 +149,7 @@
         <li>Optimized static page generation with zero server overhead.</li>
       </ul>
       <p>
-        <a href="mailto:calvinwilliamsbusiness@gmail.com?subject=Live%20Demo%20Request%20-%20RanstadPlus%20Trade%20Platform">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Live+Demo+Request+-+RanstadPlus+Trade+Platform&body=Hi+Calvin,+I+would+like+to+request+a+live+demo+of+the+RanstadPlus+Platform.">
           <img src="https://img.shields.io/badge/📱_Request_Live_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Live Demo" />
         </a>
       </p>
@@ -182,13 +182,13 @@
 I am actively open to **Full-Time Remote Roles**, **Contract Roles**, and **Consulting Opportunities** worldwide.
 
 <p align="left">
-  <a href="mailto:calvinwilliamsbusiness@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Let's+Connect+-+Remote+Opportunity">
     <img src="https://img.shields.io/badge/Gmail-calvinwilliamsbusiness%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://calvin-williams.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-calvin--williams.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://wa.me/233557279987">
+  <a href="https://wa.me/233557279987?text=Hi%20Calvin,%20I%20would%20like%20to%20discuss%20a%20remote%20engineering%20opportunity">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://github.com/Badial5">
