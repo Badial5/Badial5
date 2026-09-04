@@ -94,7 +94,7 @@
       </ul>
       <p>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Live+Demo+Request+-+Legal+Diary+Mobile+App&body=Hi+Calvin,+I+would+like+to+request+a+live+demo/walkthrough+of+the+Legal+Diary+Mobile+App.">
-          <!-- <img src="https://img.shields.io/badge/📱_Request_Live_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Live Demo" /> -->
+          <img src="https://img.shields.io/badge/📱_Request_Live_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Live Demo" />
         </a>
       </p>
       <p>
@@ -110,9 +110,9 @@
         <li>Mobile-first responsive architecture scoring 98/100 on Lighthouse.</li>
       </ul>
       <p>
-        <a href="https://microfinance-lac.vercel.app/">
+        <!-- <a href="https://microfinance-lac.vercel.app/">
           <img src="https://img.shields.io/badge/🔗_Live_App-22C55E?style=for-the-badge&logoColor=white" alt="Live App" />
-        </a>
+        </a> -->
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calvinwilliamsbusiness@gmail.com&su=Live+Demo+Request+-+Microfinance+Platform&body=Hi+Calvin,+I+would+like+to+request+a+live+demo+of+the+Microfinance+Platform.">
           <img src="https://img.shields.io/badge/📱_Request_Demo-2563EB?style=for-the-badge&logoColor=white" alt="Request Demo" />
         </a>
